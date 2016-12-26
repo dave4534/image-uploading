@@ -1,29 +1,22 @@
 {
-  "name": "besttodo",
+  "name": "image-uploading",
   "version": "1.0.0",
-  "main": "server.js",
+  "description": "",
+  "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dave4534/image-uploading.git"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "angular": "^1.6.0",
-    "body-parser": "^1.15.2",
-    "bootstrap": "^3.3.7",
-    "express": "^4.14.0",
-    "jquery": "^3.1.1",
-    "mongoose": "^4.7.2"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dave4534/full-stack-collaboration-project.git"
-  },
   "bugs": {
-    "url": "https://github.com/dave4534/full-stack-collaboration-project/issues"
+    "url": "https://github.com/dave4534/image-uploading/issues"
   },
-  "homepage": "https://github.com/dave4534/full-stack-collaboration-project#readme",
-  "description": ""
+  "homepage": "https://github.com/dave4534/image-uploading#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
 }
